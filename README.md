@@ -47,17 +47,6 @@
 
 - 🧠 **DFIR12 (SecDojo)** — Digital Forensics Challenge (Top participant)  
 - 🧠 **Morocco Blockchain Days CTF** — Top 15  
-- ✅ **SOC Level 1 & 2** — TryHackMe  
-- 🎓 **eJPT & eCIR Courses** — eLearnSecurity  
-- 🔧 **Cisco Certified** — Linux & Networking Essentials
-
----
-
-## 🌍 Languages
-
-🗣️ **Arabic** — Native  
-🗣️ **English** — Proficient  
-🗣️ **French** — Proficient
 
 ---
 
