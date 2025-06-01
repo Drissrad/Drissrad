@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Driss Ait Maali
 
-🎓 Cybersecurity & Network Defense Engineering Student  
+🎓 Cybersecurity  Engineering Student  
 🔐 Blue Team Enthusiast | Security Analyst  
 ---
 
